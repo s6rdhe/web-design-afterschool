@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    width: 1200px;
+}
+
+.a {
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.logo {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: aqua;
+}
+.nav {
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: salmon;
+}
+
+.b {
+    width: 100%;
+    height: 300px;
+    background-color: lightcoral;
+}
+
+.c {
+    width: 100%;
+    height: 200px;
+}
+.notice {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: lime;
+}
+.banner {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: skyblue;
+}
+.short {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: pink;
+}
+
+.d {
+    width: 100%;
+    height: 100px;
+}
+.logo2 {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: lightseagreen;
+}
+.copy {
+    width: 800px;
+    height: 100px;
+    float: left;
+    background-color: lightsalmon;
+}
+.sns {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: #999;
+}

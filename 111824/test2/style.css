@@ -1,0 +1,64 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+header{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+}
+.logo{
+    width: 200px;
+    background: lightgoldenrodyellow;
+}
+nav{
+    width: 1000px;
+    background-color: #216;
+}
+
+main{
+    width: 1200px;
+    height: 300px;
+    background-color: lightcoral;
+    display: flex;
+}
+
+article{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+}
+.notice{
+    width: 400px;
+    background-color: green;
+}
+.banner{
+    width: 400px;
+    background-color: pink;
+}
+.short{
+    width: 400px;
+    background-color: yellow;
+}
+
+footer{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+}
+.logo2{
+    width: 200px;
+    background-color: red;
+}
+.a{
+    width: 1000px;
+    background-color: rebeccapurple;
+}
+.b{
+    height: 50px;
+    background-color: blue;
+}
+.c{
+    height: 50px;
+    background-color: skyblue;
+}
