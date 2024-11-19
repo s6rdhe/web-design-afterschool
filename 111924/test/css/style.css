@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+.a {
+    width: 100%;
+    height: 100px;
+    float: left;
+    position: relative;
+}
+.logo {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background: #ccc;
+}
+.logo img {
+    margin-top: 30px;
+}
+.nav {
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background: #bbb;
+}
+.main {
+    position: absolute;
+    left: 550px;
+    top: 20px;
+    z-index: 1;
+}
+.main li {
+    width: 150px;
+    float: left;
+    background-color: #fff;
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    justify-content: center;
+}
+.main li:hover {
+    background-color: #000;
+    color: #fff;
+}
+.sub {
+    display: none;
+}
+.sub li {
+    background-color: #fff;
+    color: #000;
+}
+.sub li:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+
+.b {
+    width: 100%;
+    height: 300px;
+    background: #aaa;
+    position: relative;
+    overflow: hidden;
+}
+.b img {
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.c {
+    width: 100%;
+    height: 200px;
+}
+.notice {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background: #999;
+}
+.banner {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background: #888;
+}
+.short {
+    width: 400px;
+    height: 200px;
+    float: left;
+    background: #777;
+}
+
+.d {
+    width: 100%;
+    height: 100px;
+}
+.logo2 {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background: #666;
+}
+.logo2 img {
+    margin-top: 30px;
+}
+.copy {
+    width: 800px;
+    height: 100px;
+    float: left;
+    background: #555;
+}
+.sns {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background: #444;
+}
